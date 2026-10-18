@@ -1,6 +1,6 @@
-# 30 Tage Plank / 30 Day Plank – Hilfe / Help
+# 30 Day Plank – Help / Hilfe / Aide / Ayuda / Aiuto
 
-Hilfe zur Connect IQ App für Garmin-Uhren: alle Übungen, Ablauf und Trainingsplan.
-Help for the Connect IQ app for Garmin watches: all exercises, workout flow and training plan.
+Help for the Connect IQ app for Garmin watches: all exercises, workout flow and training plan –
+in English, German, French, Spanish and Italian (`?lang=en|de|fr|es|it`, otherwise the browser language).
 
 https://highkodev.github.io/plank-challenge/
